@@ -4,6 +4,7 @@ H1, H2, H3, H4, H5, H6{
 
 p{
   font-size: 15px
+  line-height: 1.4;
 }
 
 @media (max-width: 380px) {
@@ -12,5 +13,6 @@ p{
   }
   p{
     font-size: 5
+    line-height: 1.4
   }
 }
