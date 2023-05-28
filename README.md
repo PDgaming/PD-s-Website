@@ -5,17 +5,18 @@ Hello and welcome to my website. This is a very simple website that i made just 
 Welcome to PD's Website! This website is a personal project created by PD, featuring various content related to gaming, programming, and more.
 Table of Contents
 
-    Introduction
-    Features
-    Installation
-    Usage
-    Contributing
-    License
+[Jump to Introduction](#Introduction)
+[Jump to Features](#Features)
+[Jump to Installation](#Installation)
+[Jump to Usage](#Usage)
+[Jump to Contributing](#Contributing)
+[Jump to License](#License)
 
 #Introduction#
 
 PD's Website serves as a platform for sharing information, insights, and experiences in the fields of gaming and programming. The website aims to provide valuable content to the community and promote discussions on various topics of interest.
-Features
+
+#Features#
 
     Blog Posts: Engaging blog posts covering gaming, programming tutorials, tips, and more.
     Projects: Showcase of PD's personal projects related to game development, web development, and other programming endeavors.
@@ -33,7 +34,8 @@ To run this website locally, follow these steps:
 #Usage#
 
 Once the website is running, navigate through the different sections using the provided navigation menu. Read blog posts, explore projects, access resources, and reach out to PD using the contact information provided.
-Contributing
+
+#Contributing#
 
 Contributions to PD's Website are welcome! If you have suggestions, bug reports, or would like to contribute content, feel free to submit a pull request. Please review the guidelines for contributing before making any changes.
 
