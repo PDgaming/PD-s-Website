@@ -3,14 +3,15 @@
 Hello and welcome to my website. This is a very simple website that i made just for fun and to show my friends. And i know that there is a lot more that i need to add to this website.
 
 Welcome to PD's Website! This website is a personal project created by PD, featuring various content related to gaming, programming, and more.
-Table of Contents
 
-[Jump to Introduction](#Introduction)
-[Jump to Features](#Features)
-[Jump to Installation](#Installation)
-[Jump to Usage](#Usage)
-[Jump to Contributing](#Contributing)
-[Jump to License](#License)
+#Table of Contents#
+
+Introduction
+Features
+Installation
+Usage
+Contributing
+License
 
 #Introduction#
 
