@@ -1,7 +1,10 @@
 # PD-s-website
 
+## What is wanted to say
+
 Hello and welcome to my website. This is a very simple website that i made just for fun and to show my friends. And i know that there is a lot more that i need to add to this website.
 
+##Official Documentation
 
 Welcome to PD's Website! This website is a personal project created by PD, featuring various content related to gaming, programming, and more.
 
