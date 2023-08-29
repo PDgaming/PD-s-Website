@@ -1,10 +1,14 @@
-H1, H2, H3, H4, H5, H6{
+.nav {
+  background-color:darkolivegreen;
+  text-align: center;
+}
+
+H1, H2, H3, H4{
   font-size: 30px
 }
 
 p{
-  font-size: 15px
-  line-height: 1.4;
+  font-size: 20px
 }
 
 @media (max-width: 380px) {
@@ -13,6 +17,5 @@ p{
   }
   p{
     font-size: 13px
-    line-height: 1.4
   }
 }
